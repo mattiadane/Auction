@@ -1,8 +1,8 @@
-# Sample Hardhat Project
+# Auction
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+university project that simulates the management of online auctions with smart contracts.
 
-Try running some of the following tasks:
+For compile,execute and test the project follow this:
 
 ```shell
 npx hardhat compile
