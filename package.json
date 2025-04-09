@@ -1,0 +1,31 @@
+{
+  "name": "auction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test",
+    "compile": "hardhat compile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loris-code/Auction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Loris-code/Auction/issues"
+  },
+  "homepage": "https://github.com/Loris-code/Auction#readme",
+  "description": "",
+  "devDependencies": {
+  "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+  "@nomicfoundation/hardhat-ethers": "^3.0.8",
+  "@nomicfoundation/hardhat-chai-matchers": "^2.0.8",
+  "ethers": "^6.1.0",
+  "hardhat": "^2.12.0",
+  "typescript": "^4.7.0",
+  "chai": "^4.3.7"
+}
+
+}
